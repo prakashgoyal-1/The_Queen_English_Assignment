@@ -1,0 +1,40 @@
+body{
+  display: grid;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: rgb(215, 228, 240);
+}
+.heading{
+  color: rgb(243, 104, 104);
+}
+.question{
+  color: blue;
+  font-size: 24px;
+}
+#span{
+  color:rgb(1, 136, 64);
+}
+#ann{
+  display: block;
+  color:rgb(1, 136, 64);
+  font-size: 24px;
+}
+
+#text{
+  border: 2px solid gray;
+  color: blueviolet;
+  width: 250px;
+  font-size: 25px;
+  
+}
+#showMassage{
+  color: rgb(238, 69, 77);
+}
+#checkAnswer{
+  margin-top: 10px;
+  width: 90px;
+  height: 30px;
+  font-size: 20px;
+  background-color:rgb(142, 224, 231);
+  border-radius: 40px;
+}
